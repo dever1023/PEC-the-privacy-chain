@@ -2,8 +2,6 @@
 
 A fully private blockchain implementation with advanced cryptographic privacy features.
 
-FLRZr4MsWsym3Kj4rLZRDJoK5uTkGRXaEjnpKiht4t9P
-
 ## Features
 
 - **Ring Signatures**: Hide transaction sender among a group of possible signers
